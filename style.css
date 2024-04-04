@@ -27,7 +27,7 @@ h2 {
     margin:5px;
 }
 .body {
-  background-color: green;
+  background-color: paleturquoise ;
 }
 
 .para1 {
@@ -53,4 +53,16 @@ h2 {
 }
 body {
   background: #69df49;
+}
+
+.Start {
+  color: whitesmoke;
+}
+
+p {
+  color: teal;
+}
+
+.para1 {
+  color: 
 }
